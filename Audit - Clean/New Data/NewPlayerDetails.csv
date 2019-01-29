@@ -1,0 +1,501 @@
+PlayerName,Team,BirthDate,BirthCity,College,Height,Weight,PhotoUrl,Position,JerseyNo,ExperienceYear
+Nene Hilario,HOU,9/13/1982,Sao Carlos,No College,83,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000439.png,C,42,16
+Marcin Gortat,LAC,2/17/1984,Lodz,No College,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000440.png,C,13,11
+Bradley Beal,WAS,6/28/1993,St. Louis,Florida,77,207,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000441.png,SG,3,6
+John Wall,WAS,9/6/1990,Raleigh,Kentucky,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000442.png,PG,2,8
+Otto Porter Jr.,WAS,6/3/1993,St. Louis,Georgetown,80,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000443.png,SF,22,5
+Garrett Temple,MEM,5/8/1986,Baton Rouge,LSU,78,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000452.png,SG,17,8
+Terrence Ross,ORL,2/5/1991,Portland,Washington,79,206,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000453.png,SG,31,6
+Jonas Valanciunas,TOR,5/6/1992,Utena,No College,84,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000455.png,C,17,6
+DeMar DeRozan,SAS,8/7/1989,Compton,USC,79,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000456.png,SG,10,9
+Kyle Lowry,TOR,3/25/1986,Philadelphia,Villanova,73,196,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000457.png,PG,7,12
+Amir Johnson,PHI,5/1/1987,Los Angeles,No College,81,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000458.png,PF,5,13
+Lou Williams,LAC,10/27/1986,Memphis,No College,73,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000459.png,SG,23,13
+Patrick Patterson,OKC,3/14/1989,Washington,Kentucky,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000460.png,PF,54,8
+James Johnson,MIA,2/20/1987,Cheyenne,Wake Forest,80,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000464.png,PF,16,9
+Bruno Caboclo,MEM,9/21/1995,Osasco,No College,81,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000466.png,SF,5,4
+Anthony Davis,NOP,3/11/1993,Chicago,Kentucky,82,253,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000468.png,PF,23,6
+Quincy Pondexter,SAS,3/10/1988,Fresno,Washington,79,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000469.png,SG,3,6
+Eric Gordon,HOU,12/25/1988,Indianapolis,Indiana,76,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000471.png,SG,10,10
+Tyreke Evans,IND,9/19/1989,Chester,Memphis,78,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000472.png,SG,12,9
+Jrue Holiday,NOP,6/12/1990,Mission Hills,UCLA,76,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000474.png,PG,11,9
+Ryan Anderson,PHO,5/6/1988,Sacramento,California,82,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000475.png,PF,15,10
+Dante Cunningham,SAS,4/22/1987,Clinton,Villanova,80,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000476.png,SF,33,9
+Draymond Green,GSW,3/4/1990,Saginaw,Michigan State,79,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000482.png,PF,23,6
+Harrison Barnes,DAL,5/30/1992,Ames,North Carolina,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000483.png,SF,40,6
+Stephen Curry,GSW,3/14/1988,Akron,Davidson,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000485.png,PG,30,9
+Klay Thompson,GSW,2/8/1990,Los Angeles,Washington State,79,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000486.png,SG,11,7
+Andre Iguodala,GSW,1/28/1984,Springfield,Arizona,78,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000487.png,SF,9,14
+Shaun Livingston,GSW,9/11/1985,Peoria,No College,79,192,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000488.png,PG,34,13
+Justin Holiday,MEM,4/5/1989,Mission Hills,Washington,78,181,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000492.png,SG,7,5
+Giannis Antetokounmpo,MIL,12/6/1994,Athens,No College,83,242,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000497.png,PF,34,5
+Ersan Ilyasova,MIL,5/15/1987,Eskisehir,No College,82,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000498.png,PF,77,10
+Zaza Pachulia,DET,2/10/1984,Tbilisi,No College,83,270,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000499.png,C,27,15
+Khris Middleton,MIL,8/12/1991,North Charleston,Texas A&amp;M,80,222,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000500.png,SF,22,6
+John Henson,CLE,12/28/1990,Greensoboro,North Carolina,83,219,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000502.png,PF,31,6
+Jerryd Bayless,MIN,8/20/1988,Phoenix,Arizona,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000504.png,PG,8,10
+Jared Dudley,BKN,7/10/1985,San Diego,Boston College,79,237,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000505.png,SF,6,11
+Miles Plumlee,ATL,9/1/1988,Ft. Wayne,Duke,83,249,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000509.png,C,18,6
+Jabari Parker,CHI,3/15/1995,Chicago,Duke,80,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000511.png,PF,2,4
+Pau Gasol,SAS,7/6/1980,Barcelona,No College,84,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000512.png,C,16,17
+Joakim Noah,MEM,2/25/1985,New York,Florida,83,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000514.png,C,55,11
+Jimmy Butler,PHI,9/14/1989,Houston,Marquette,80,232,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000515.png,SG,23,7
+Derrick Rose,MIN,10/4/1988,Chicago,Memphis,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000516.png,PG,25,9
+Taj Gibson,MIN,6/24/1985,Brooklyn,USC,81,232,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000517.png,PF,67,9
+Tony Snell,MIL,11/10/1991,Los Angeles,New Mexico,79,213,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000519.png,SG,21,5
+Nikola Mirotic,NOP,2/11/1991,Titograd,No College,82,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000520.png,PF,3,4
+Doug McDermott,IND,1/3/1992,Grand Forks,Creighton,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000522.png,SF,20,4
+E'Twaun Moore,NOP,2/25/1989,East Chicago,Purdue,76,191,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000524.png,SG,55,7
+Chandler Parsons,MEM,10/25/1988,Casselberry,Florida,82,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000526.png,SF,25,7
+Dirk Nowitzki,DAL,6/19/1978,Wurzburg,No College,84,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000527.png,PF,41,20
+Tyson Chandler,LAL,10/2/1982,Hanford,No College,85,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000528.png,C,5,17
+Rajon Rondo,LAL,2/22/1986,Louisville,Kentucky,73,186,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000530.png,PG,9,12
+J.J. Barea,DAL,6/26/1984,Mayaguez,Northeastern,72,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000531.png,PG,5,12
+Al-Farouq Aminu,POR,9/21/1990,Atlanta,Wake Forest,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000532.png,PF,8,8
+Devin Harris,DAL,2/27/1983,Milwaukee,Wisconsin,75,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000534.png,PG,34,14
+Raymond Felton,OKC,6/26/1984,Marion,North Carolina,73,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000537.png,PG,2,13
+Dwight Powell,DAL,7/20/1991,Toronto,Stanford,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000539.png,PF,7,4
+Trevor Ariza,WAS,6/30/1985,Miami,UCLA,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000541.png,SF,1,14
+Dwight Howard,WAS,12/8/1985,Atlanta,No College,83,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000543.png,C,21,14
+James Harden,HOU,8/26/1989,Bellflower,Arizona State,77,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000544.png,PG,13,9
+Corey Brewer,PHI,3/5/1986,Portland,Florida,81,186,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000547.png,SF,0,11
+Clint Capela,HOU,5/18/1994,Geneva,No College,82,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000549.png,C,15,4
+Patrick Beverley,LAC,7/12/1988,Chicago,Arkansas,73,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000554.png,PG,21,6
+Evan Turner,POR,10/27/1988,Chicago,Ohio State,79,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000556.png,SG,1,8
+Avery Bradley,LAC,11/26/1990,Tacoma,Texas,74,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000559.png,SG,11,8
+Marcus Smart,BOS,3/6/1994,Flower Mound,Oklahoma State,76,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000560.png,PG,36,4
+Isaiah Thomas,DEN,2/7/1989,Tacoma,Washington,69,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000561.png,PG,0,7
+Jae Crowder,UTA,7/6/1990,Villa Rica,Marquette,78,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000562.png,PF,99,6
+Jonas Jerebko,GSW,3/2/1987,Kinna,No College,82,231,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000563.png,PF,21,8
+Kelly Olynyk,MIA,4/19/1991,Toronto,Gonzaga,84,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000564.png,C,9,5
+LeBron James,LAL,12/30/1984,Akron,No College,80,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png,SF,23,15
+Kevin Love,CLE,9/7/1988,Santa Monica,UCLA,82,251,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000572.png,PF,0,10
+Timofey Mozgov,ORL,7/16/1986,St. Petersburg,No College,85,275,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000573.png,C,21,8
+Kyrie Irving,BOS,3/23/1992,Melbourne,Duke,75,193,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000574.png,PG,11,7
+J.R. Smith,CLE,9/9/1985,Freehold,No College,78,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000575.png,SG,5,14
+Iman Shumpert,SAC,6/26/1990,Oak Park,Georgia Tech,77,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000576.png,SG,9,7
+Tristan Thompson,CLE,3/13/1991,Brampton,Texas,82,238,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000577.png,C,13,7
+Matthew Dellavedova,CLE,9/8/1990,Maryborough,Saint Mary&#x27;s,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000579.png,PG,18,5
+Joe Harris,BKN,9/6/1991,Chelan,Virginia,78,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000584.png,SG,12,4
+Thaddeus Young,IND,6/21/1988,New Orleans,Georgia Tech,80,221,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000587.png,PF,21,11
+Brook Lopez,MIL,4/1/1988,Panorama City,Stanford,84,270,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000588.png,C,11,10
+Bojan Bogdanovic,IND,4/18/1989,Mostar,No College,80,216,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000591.png,SF,44,4
+Mason Plumlee,DEN,3/5/1990,Warsaw,Duke,83,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000594.png,C,24,5
+DeMarre Carroll,BKN,7/27/1986,Birmingham,Missouri,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000601.png,SF,9,9
+Paul Millsap,DEN,2/10/1985,Monroe,Louisiana Tech,80,246,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000602.png,PF,4,12
+Al Horford,BOS,6/3/1986,Puerto Plata,Florida,82,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000603.png,PF,42,11
+Kyle Korver,UTA,3/17/1981,Lakewood,Creighton,79,212,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000604.png,SG,26,15
+Jeff Teague,MIN,6/10/1988,Indianapolis,Wake Forest,74,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000605.png,PG,0,9
+Dennis Schroder,OKC,9/15/1993,Braunschweig,No College,73,172,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000606.png,PG,17,5
+Kent Bazemore,ATL,7/1/1989,Kelford,Old Dominion,77,201,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000608.png,SG,24,6
+Mike Scott,LAC,7/16/1988,Chesapeake,Virginia,80,237,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000609.png,PF,30,6
+Shelvin Mack,MEM,4/22/1990,Lexington,Butler,75,203,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000610.png,PG,6,7
+Mike Muscala,PHI,7/1/1991,St. Louis Park,Bucknell,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000613.png,PF,31,5
+Thabo Sefolosha,UTA,5/2/1984,Vevey,No College,79,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000615.png,SF,22,12
+LaMarcus Aldridge,SAS,7/19/1985,Dallas,Texas,83,260,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000616.png,PF,12,12
+Nicolas Batum,CHA,12/14/1988,Lisieux,No College,80,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000617.png,SG,5,10
+Robin Lopez,CHI,4/1/1988,North Hollywood,Stanford,84,275,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000618.png,C,42,10
+Damian Lillard,POR,7/15/1990,Oakland,Weber State,75,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000619.png,PG,0,6
+CJ McCollum,POR,9/19/1991,Canton,Lehigh,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000620.png,SG,3,5
+Meyers Leonard,POR,2/27/1992,Robinson,Illinois,85,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000621.png,C,11,6
+Allen Crabbe,BKN,4/9/1992,Los Angeles,California,78,212,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000622.png,SG,33,5
+Tim Frazier,NOP,11/1/1990,Houston,Penn State,73,170,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000625.png,PG,10,4
+Wesley Matthews,DAL,10/14/1986,San Antonio,Marquette,77,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000629.png,SG,23,9
+Zach Randolph,SAC,7/16/1981,Marion,Michigan State,81,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000631.png,PF,50,17
+Jeff Green,WAS,8/28/1986,Cheverly,Georgetown,81,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000632.png,SF,32,10
+Marc Gasol,MEM,1/29/1985,Barcelona,No College,85,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000633.png,C,33,10
+Courtney Lee,NYK,10/3/1985,Indianapolis,Western Kentucky,77,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000634.png,SG,5,10
+Mike Conley,MEM,10/11/1987,Fayetteville,Ohio State,73,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000635.png,PG,11,11
+Vince Carter,ATL,1/26/1977,Daytona Beach,North Carolina,78,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000638.png,SG,15,20
+Kosta Koufos,SAC,2/24/1989,Canton,Ohio State,84,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000639.png,C,41,10
+JaMychal Green,MEM,6/21/1990,Montgomery,Alabama,81,227,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000642.png,PF,0,4
+Jon Leuer,DET,5/14/1989,Long Lake,Wisconsin,82,228,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000643.png,PF,30,7
+Kawhi Leonard,TOR,6/29/1991,Riverside,San Diego State,79,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000646.png,SF,2,7
+Tony Parker,CHA,5/17/1982,Bruges,No College,74,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000649.png,PG,9,17
+Danny Green,TOR,6/22/1987,North Babylon,North Carolina,78,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000650.png,SG,14,9
+Aron Baynes,BOS,12/9/1986,Gisborne,Washington State,82,260,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000652.png,C,46,6
+Marco Belinelli,SAS,3/25/1986,Bologna,No College,77,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000654.png,SG,18,11
+Cory Joseph,IND,8/20/1991,Toronto,Texas,75,193,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000655.png,PG,6,7
+Patty Mills,SAS,8/11/1988,Canberra,Saint Mary&#x27;s,72,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000656.png,PG,8,9
+Kyle Anderson,MEM,9/20/1993,New York,UCLA,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000659.png,SF,1,4
+Blake Griffin,DET,3/16/1989,Oklahoma City,Oklahoma,82,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000661.png,PF,23,8
+DeAndre Jordan,DAL,7/21/1988,Houston,Texas A&amp;M,83,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000663.png,C,6,10
+Chris Paul,HOU,5/6/1985,Winston-Salem,Wake Forest,72,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000664.png,PG,3,13
+JJ Redick,PHI,6/24/1984,Cookeville,Duke,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000665.png,SF,17,12
+Jamal Crawford,PHO,3/20/1980,Seattle,Michigan,77,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000666.png,SG,11,18
+Austin Rivers,HOU,8/1/1992,Santa Monica,Duke,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000667.png,PG,25,6
+Ekpe Udoh,UTA,5/20/1987,Edmond,Baylor,82,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000673.png,C,33,6
+Tobias Harris,LAC,7/15/1992,Islip,Tennessee,81,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000676.png,SF,34,7
+Kyle O'Quinn,IND,3/26/1990,Jamaica,Norfolk State,82,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000677.png,C,10,6
+Nikola Vucevic,ORL,10/24/1990,Morges,USC,84,260,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000678.png,C,9,7
+Evan Fournier,ORL,10/29/1992,Saint-Maurice,No College,79,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000679.png,SF,10,6
+Elfrid Payton,NOP,2/22/1994,Gretna,Louisiana-Lafayette,76,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000680.png,PG,4,4
+Aaron Gordon,ORL,9/16/1995,San Jose,Arizona,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000681.png,PF,0,4
+Dewayne Dedmon,ATL,8/12/1989,Lancaster,USC,84,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000684.png,C,14,5
+Moe Harkless,POR,5/11/1993,Queens,St. John&#x27;s,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000686.png,SF,4,6
+Channing Frye,CLE,5/17/1983,White Plains,Arizona,84,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000688.png,PF,9,12
+Victor Oladipo,IND,5/4/1992,Upper Marlboro,Indiana,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000689.png,SG,4,5
+Darius Miller,NOP,3/21/1990,Maysville,Kentucky,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000691.png,SF,21,4
+Troy Daniels,PHO,7/15/1991,Roanoke,Virginia Commonwealth,76,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000698.png,SG,30,5
+Wesley Johnson,NOP,7/11/1987,Corsicana,Syracuse,79,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000702.png,SF,33,8
+Jeremy Lin,ATL,8/23/1988,Torrance,Harvard,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000704.png,PG,7,8
+Ed Davis,BKN,6/5/1989,Washington,North Carolina,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000707.png,PF,17,8
+Jordan Clarkson,CLE,6/7/1992,San Antonio,Missouri,77,194,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000708.png,PG,8,4
+Julius Randle,NOP,11/29/1994,Dallas,Kentucky,81,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000710.png,PF,30,4
+Wayne Ellington,MIA,11/29/1987,Wynnewood,North Carolina,77,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000712.png,SG,2,9
+Nerlens Noel,OKC,4/10/1994,Malden,Kentucky,83,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000716.png,C,3,4
+Luc Richard Mbah a Moute,LAC,9/9/1986,Yaounde,UCLA,80,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000725.png,PF,12,10
+Joel Embiid,PHI,3/16/1994,Yaounde,Kansas,84,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000726.png,C,21,2
+Jerami Grant,OKC,3/12/1994,Portland,Syracuse,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000727.png,SF,9,4
+Solomon Hill,NOP,3/18/1991,Harvey,Arizona,79,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000730.png,SF,44,5
+C.J. Miles,TOR,3/18/1987,Dallas,No College,78,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000733.png,SF,0,13
+Ian Mahinmi,WAS,11/5/1986,Rouen,No College,83,262,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000737.png,C,28,10
+Paul George,OKC,5/2/1990,Palmdale,Fresno State,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000742.png,SF,13,8
+George Hill,MIL,5/4/1986,Indianapolis,IUPUI,75,188,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000743.png,PG,3,10
+Brandon Knight,HOU,12/2/1991,Miami,Kentucky,75,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000745.png,PG,2,6
+Michael Kidd-Gilchrist,CHA,9/26/1993,Philadelphia,Kentucky,79,232,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000748.png,SF,14,6
+Marvin Williams,CHA,6/19/1986,Bremerton,North Carolina,81,237,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000749.png,PF,2,13
+Lance Stephenson,LAL,9/5/1990,Brooklyn,Cincinnati,78,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000751.png,SG,6,8
+Kemba Walker,CHA,5/8/1990,Bronx,Connecticut,73,184,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000752.png,PG,15,7
+Cody Zeller,CHA,10/5/1992,Washington,Indiana,84,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000754.png,C,40,5
+Bismack Biyombo,CHA,8/28/1992,Lubumbashi,No College,81,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000758.png,C,8,7
+Noah Vonleh,NYK,8/24/1995,Haverhill,Indiana,81,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000762.png,PF,32,4
+Luol Deng,MIN,4/16/1985,Wau,Duke,81,237,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000770.png,SF,9,14
+Dwyane Wade,MIA,1/17/1982,Chicago,Marquette,76,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000772.png,SG,3,15
+Shabazz Napier,BKN,7/14/1991,Roxbury,Connecticut,73,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000775.png,PG,13,4
+James Ennis III,HOU,7/1/1990,Ventura,Long Beach State,79,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000776.png,SF,8,4
+Udonis Haslem,MIA,6/9/1980,Miami,Florida,80,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000780.png,PF,40,15
+Carmelo Anthony,CHI,5/29/1984,Brooklyn,Syracuse,80,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000784.png,PF,7,15
+Tim Hardaway Jr.,NYK,3/16/1992,Miami,Michigan,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000788.png,SF,3,5
+Jason Smith,MIL,3/2/1986,Greeley,Colorado State,84,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000790.png,PF,20,10
+Jose Calderon,DET,9/28/1981,Villanueva de la Serena,No College,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000794.png,PG,81,13
+Andrew Wiggins,MIN,2/23/1995,Toronto,Kansas,80,194,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000795.png,SF,22,4
+Ricky Rubio,UTA,10/21/1990,El Masnou,No College,76,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000797.png,PG,3,7
+Gorgui Dieng,MIN,1/18/1990,Kebemer,Louisville,83,252,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000800.png,C,5,5
+Zach LaVine,CHI,3/10/1995,Renton,UCLA,77,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000804.png,PG,8,4
+Glenn Robinson III,DET,1/8/1994,Gary,Michigan,78,222,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000806.png,SG,22,4
+Andre Drummond,DET,8/10/1993,Mount Vernon,Connecticut,83,279,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000810.png,C,0,6
+Kentavious Caldwell-Pope,LAL,2/18/1993,Thomaston,Georgia,77,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000811.png,SG,1,5
+D.J. Augustin,ORL,11/10/1987,New Orleans,Texas,72,183,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000813.png,PG,14,10
+Spencer Dinwiddie,BKN,4/6/1993,Los Angeles,Colorado,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000816.png,PG,8,4
+Greg Monroe,TOR,6/4/1990,New Orleans,Georgetown,83,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000818.png,C,15,8
+Kenneth Faried,HOU,11/19/1989,Newark,Morehead State,80,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000821.png,PF,35,7
+Danilo Gallinari,LAC,8/8/1988,Sant'Angelo Lodigiano,No College,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000822.png,SF,8,9
+Wilson Chandler,PHI,5/10/1987,Benton Harbor,DePaul,81,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000824.png,SF,22,10
+Jusuf Nurkic,POR,8/23/1994,Tuzla,No College,84,275,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000827.png,C,27,4
+JaVale McGee,LAL,1/19/1988,Flint,Nevada,84,270,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000828.png,C,7,10
+Gary Harris,DEN,9/14/1994,Fishers,Michigan State,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000832.png,SG,14,4
+Gordon Hayward,BOS,3/23/1990,Brownsburg,Butler,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000833.png,SF,20,8
+Derrick Favors,UTA,7/15/1991,Atlanta,Georgia Tech,82,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000834.png,PF,15,8
+Enes Kanter,NYK,5/20/1992,Zurich,Kentucky,83,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000835.png,C,0,7
+Trey Burke,NYK,11/12/1992,Columbus,Michigan,73,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000836.png,PG,23,5
+Alec Burks,CLE,7/20/1991,Grandview,Colorado,78,214,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000837.png,SG,10,7
+Rodney Hood,CLE,10/20/1992,Meridian,Duke,80,206,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000839.png,SG,1,4
+Rudy Gobert,UTA,6/26/1992,Saint-Quentin,No College,85,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000840.png,C,27,5
+Dante Exum,UTA,7/13/1995,Melbourne,No College,78,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000841.png,PG,11,3
+Joe Ingles,UTA,10/2/1987,Happy Valley,No College,80,226,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000842.png,SF,2,4
+Ian Clark,NOP,3/7/1991,Memphis,Belmont,75,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000843.png,SG,2,5
+Marcus Morris,BOS,9/2/1989,Philadelphia,Kansas,81,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000847.png,PF,13,7
+Markieff Morris,WAS,9/2/1989,Philadelphia,Kansas,82,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000848.png,PF,5,7
+Goran Dragic,MIA,5/6/1986,Ljubljana,No College,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000849.png,PG,7,10
+Eric Bledsoe,MIL,12/9/1989,Birmingham,Kentucky,73,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000850.png,PG,6,8
+Gerald Green,HOU,1/26/1986,Houston,No College,79,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000851.png,SG,14,11
+Alex Len,ATL,6/16/1993,Antratsit,Maryland,85,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000852.png,C,25,5
+Anthony Tolliver,MIN,6/1/1985,Springfield,Creighton,80,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000854.png,PF,43,10
+P.J. Tucker,HOU,5/5/1985,Raleigh,Texas,78,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000856.png,SF,17,7
+T.J. Warren,PHO,9/5/1993,Durham,North Carolina State,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000858.png,SF,12,4
+Rudy Gay,SAS,8/17/1986,Baltimore,Connecticut,80,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000860.png,SF,22,12
+DeMarcus Cousins,GSW,8/13/1990,Mobile,Kentucky,83,270,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000862.png,C,0,8
+Darren Collison,IND,8/23/1987,Rancho Cucamonga,UCLA,72,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000863.png,PG,2,9
+Ben McLemore,SAC,2/11/1993,St. Louis,Kansas,77,201,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000864.png,SG,23,5
+Nik Stauskas,POR,10/7/1993,Etobicoke,Michigan,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000865.png,SG,6,4
+Omri Casspi,MEM,6/22/1988,Holon,No College,81,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000867.png,SF,18,9
+Serge Ibaka,TOR,9/18/1989,Brazzaville,No College,82,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000874.png,PF,9,9
+Steven Adams,OKC,7/20/1993,Rotorua,Pittsburgh,84,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000875.png,C,12,5
+Andre Roberson,OKC,12/4/1991,Las Cruces,Colorado,79,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000876.png,SG,21,5
+Russell Westbrook,OKC,11/12/1988,Long Beach,UCLA,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000877.png,PG,0,10
+Lance Thomas,NYK,4/24/1988,Brooklyn,Duke,80,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000878.png,SF,42,7
+Reggie Jackson,DET,4/16/1990,Pordenone,Boston College,75,208,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000881.png,PG,1,7
+Jeremy Lamb,CHA,5/30/1992,Henrico,Connecticut,77,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000882.png,SG,3,6
+Kevin Durant,GSW,9/29/1988,Washington,Texas,81,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000884.png,SF,35,11
+Will Barton,DEN,1/6/1991,Baltimore,Memphis,78,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000887.png,SG,5,6
+Dion Waiters,MIA,12/10/1991,Philadelphia,Syracuse,76,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000890.png,SG,11,6
+Reggie Bullock,DET,3/16/1991,Kinston,North Carolina,79,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000896.png,SF,25,5
+Kalin Lucas,DET,5/24/1989,Sterling Heights,Michigan State,73,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000900.png,PG,24,1
+Ish Smith,DET,7/5/1988,Charlotte,Wake Forest,72,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000901.png,PG,14,8
+Robert Covington,MIN,12/14/1990,Bellwood,Tennessee State,81,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000903.png,SF,33,5
+Hassan Whiteside,MIA,6/13/1989,Gastonia,Marshall,84,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000904.png,C,21,6
+Langston Galloway,DET,12/9/1991,Baton Rouge,Saint Joseph&#x27;s,74,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000912.png,SG,9,4
+Tyler Johnson,MIA,5/7/1992,Grand Forks,Fresno State,76,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000916.png,SG,8,4
+Michael Beasley,LAL,1/9/1989,Cheverly,Kansas State,81,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000928.png,SF,11,10
+Seth Curry,POR,8/23/1990,Charlotte,Duke,74,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000933.png,SG,31,4
+Richaun Holmes,PHO,10/15/1993,Lockport,Bowling Green,82,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001389.png,PF,21,3
+Jahlil Okafor,NOP,12/15/1995,Chicago,Duke,83,275,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001391.png,C,8,3
+Kelly Oubre Jr.,PHO,12/9/1995,New Orleans,Kansas,79,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001393.png,SF,3,3
+Frank Kaminsky,CHA,4/4/1993,Lisle,Wisconsin,84,242,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001396.png,PF,44,3
+Josh Richardson,MIA,9/15/1993,Edmond,Tennessee,78,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001400.png,SF,0,3
+Justise Winslow,MIA,3/26/1996,Houston,Duke,79,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001401.png,SF,20,3
+Mario Hezonja,NYK,2/25/1995,Dubrovnik,No College,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001403.png,SG,8,3
+Jerian Grant,ORL,10/9/1992,Silver Spring,Notre Dame,76,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001404.png,PG,22,3
+Willy Hernangomez,CHA,5/27/1994,Madrid,No College,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001405.png,C,41,2
+Kristaps Porzingis,NYK,8/2/1995,Liepaja,No College,87,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001406.png,PF,6,3
+Rondae Hollis-Jefferson,BKN,1/3/1995,Chester,Arizona,79,217,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001408.png,SF,24,3
+R.J. Hunter,BOS,10/24/1993,Oxford,Georgia State,77,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001411.png,SG,28,3
+Terry Rozier,BOS,3/17/1994,Youngstown,Louisville,73,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001413.png,PG,12,3
+Norman Powell,TOR,5/25/1993,San Diego,UCLA,76,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001416.png,SF,24,3
+Delon Wright,TOR,4/26/1992,Los Angeles,Utah,77,183,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001418.png,PG,55,3
+Cristiano Felicio,CHI,7/7/1992,Pouso Alegre,No College,82,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001419.png,C,6,3
+Bobby Portis,CHI,2/10/1995,Little Rock,Arkansas,83,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001420.png,PF,5,3
+Cedi Osman,CLE,4/8/1995,Ohrid,No College,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001421.png,SF,16,1
+Myles Turner,IND,3/24/1996,Bedford,Texas,83,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001424.png,C,33,3
+Stanley Johnson,DET,5/29/1996,Fullerton,Arizona,79,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001427.png,SF,7,3
+Nemanja Bjelica,SAC,5/9/1988,Belgrade,No College,82,234,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001429.png,PF,88,3
+Tyus Jones,MIN,5/10/1996,Burnsville,Duke,74,196,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001430.png,PG,1,3
+Karl-Anthony Towns,MIN,11/15/1995,Piscataway,Kentucky,84,248,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001431.png,C,32,3
+Trey Lyles,DEN,11/5/1995,Saskatoon,Kentucky,82,234,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001433.png,PF,7,3
+Raul Neto,UTA,5/19/1992,Belo Horizonte,No College,73,179,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001434.png,PG,25,3
+Pat Connaughton,MIL,1/6/1993,Arlington,Notre Dame,76,209,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001438.png,SG,24,3
+Nikola Jokic,DEN,2/19/1995,Sombor,No College,84,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001441.png,C,15,3
+Emmanuel Mudiay,NYK,3/5/1996,Kinshasa,No College,77,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001442.png,PG,1,3
+Jarell Martin,ORL,5/24/1994,Baton Rouge,LSU,82,239,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001445.png,PF,2,3
+Sam Dekker,WAS,5/6/1994,Sheboygan,Wisconsin,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001446.png,SF,8,3
+Montrezl Harrell,LAC,1/26/1994,Tarboro,Louisville,80,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001447.png,PF,5,3
+Boban Marjanovic,LAC,8/15/1988,Zajecar,No College,87,290,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001449.png,C,51,3
+Jonathon Simmons,ORL,9/14/1989,Houston,Houston,78,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001451.png,SF,17,3
+Justin Anderson,ATL,11/19/1993,Montross,Virginia,78,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001452.png,SG,1,3
+Kevon Looney,GSW,2/6/1996,Milwaukee,UCLA,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001455.png,SF,5,3
+Larry Nance Jr.,CLE,1/1/1993,Akron,Wyoming,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001457.png,PF,22,3
+D'Angelo Russell,BKN,2/23/1996,Louisville,Ohio State,77,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001458.png,PG,1,3
+Devin Booker,PHO,10/30/1996,Grand Rapids,Kentucky,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001460.png,SG,1,3
+Willie Cauley-Stein,SAC,8/18/1993,Olathe,Kentucky,84,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001461.png,C,0,3
+Treveon Graham,BKN,10/28/1993,Washington,Virginia Commonwealth,77,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001470.png,SG,21,2
+Salah Mejri,DAL,6/15/1986,Jendouba,No College,86,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001477.png,C,50,3
+Brad Wanamaker,BOS,7/25/1989,Philadelphia,Pittsburgh,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001503.png,PG,9,1
+T.J. McConnell,PHI,3/25/1992,Pittsburgh,Arizona,74,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001525.png,PG,12,3
+Jordan McRae,WAS,3/28/1991,Hinesville,Tennessee,77,179,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001526.png,SG,52,2
+Christian Wood,MIL,9/27/1995,Long Beach,UNLV,82,214,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001527.png,PF,35,2
+Deonte Burton,OKC,1/31/1994,Los Angeles,Iowa State,77,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001567.png,PG,30,0
+Quinn Cook,GSW,3/23/1993,Washington,Duke,74,179,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001573.png,PG,4,2
+Julian Washburn,MEM,11/26/1989,Dallas,UTEP,80,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,SF,0,0
+,MEM,12/18/1991,Amarillo,UTEP,80,209,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,SF,4,0
+Dario Saric,MIN,4/8/1994,Sibenik,No College,82,223,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001597.png,PF,36,2
+Rodney McGruder,MIA,7/29/1991,Landover,Kansas State,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001623.png,SG,17,2
+Khem Birch,ORL,9/28/1992,No record,UNLV,81,233,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001630.png,C,24,1
+Alan Williams,BKN,1/28/1993,Phoenix,UC Santa Barbara,80,265,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001645.png,PF,15,3
+Ben Simmons,PHI,7/20/1996,Melbourne,LSU,82,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001661.png,PG,25,1
+Jamal Murray,DEN,2/23/1997,Kitchener,Kentucky,76,207,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001666.png,PG,27,2
+Thon Maker,MIL,2/25/1997,Sydney,No College,85,221,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001667.png,C,7,2
+Davis Bertans,SAS,11/12/1992,Valmiera,No College,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001668.png,SF,42,2
+Dragan Bender,PHO,11/17/1997,Capljina,No College,85,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001669.png,PF,35,2
+Kris Dunn,CHI,3/18/1994,New London,Providence,76,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001670.png,PG,32,2
+Brandon Ingram,LAL,9/2/1997,Kinston,Duke,81,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001671.png,SF,14,2
+Jaylen Brown,BOS,10/24/1996,Marietta,California,79,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001672.png,SG,7,2
+Buddy Hield,SAC,12/17/1992,Freeport,Oklahoma,76,214,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001673.png,SG,24,2
+Marquese Chriss,HOU,7/2/1997,Sacramento,Washington,82,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001674.png,PF,0,2
+Skal Labissiere,SAC,3/18/1996,No record,Kentucky,83,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001675.png,PF,7,2
+Wade Baldwin IV,POR,3/29/1996,Belle Mead,Vanderbilt,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001677.png,PG,2,2
+Malik Beasley,DEN,11/26/1996,Atlanta,Florida State,77,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001678.png,SG,25,2
+Dejounte Murray,SAS,9/19/1996,Seattle,Washington,77,170,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001679.png,PG,5,2
+Taurean Prince,ATL,3/22/1994,San Marcos,Baylor,80,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001680.png,SF,12,2
+Henry Ellenson,DET,1/13/1997,Rice Lake,Marquette,83,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001681.png,PF,8,2
+Patrick McCaw,TOR,10/25/1995,St. Louis,UNLV,79,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001682.png,SG,1,2
+Domantas Sabonis,IND,5/3/1996,Portland,Gonzaga,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001683.png,C,11,2
+Jakob Poeltl,SAS,10/15/1995,Vienna,Utah,84,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001687.png,C,25,2
+Damian Jones,GSW,6/30/1995,Baton Rouge,Vanderbilt,84,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001689.png,C,15,2
+DeAndre' Bembry,ATL,7/4/1994,Charlotte,Saint Joseph&#x27;s,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001690.png,SF,95,2
+Timothe Luwawu-Cabarrot,OKC,5/9/1995,Cannes,No College,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001692.png,SG,7,2
+Denzel Valentine,CHI,11/16/1993,Lansing,Michigan State,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001693.png,SF,45,2
+Ivica Zubac,LAL,3/18/1997,Mostar,No College,85,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001694.png,C,40,2
+Ante Zizic,CLE,1/4/1997,Split,No College,83,254,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001695.png,PF,41,1
+Juancho Hernangomez,DEN,9/28/1995,Madrid,No College,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001697.png,PF,41,2
+Cheick Diallo,NOP,9/13/1996,Kayes,Kansas,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001698.png,PF,13,2
+Malachi Richardson,TOR,1/5/1996,Trenton,Syracuse,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001699.png,SG,22,2
+Malcolm Brogdon,MIL,12/11/1992,Norcross,Virginia,77,229,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001701.png,PG,13,2
+Isaiah Whitehead,DET,3/8/1995,Brooklyn,Seton Hall,76,213,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001703.png,SG,15,2
+Jake Layman,POR,3/7/1994,Wrentham,Maryland,81,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001706.png,SF,10,2
+Caris LeVert,BKN,8/25/1994,Columbus,Michigan,79,204,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001707.png,SG,22,2
+Georges Niang,UTA,6/17/1993,Lawrence,Iowa State,80,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001708.png,SF,31,2
+Pascal Siakam,TOR,4/2/1994,Douala,New Mexico State,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001710.png,PF,43,2
+Guerschon Yabusele,BOS,12/17/1995,Dreux,No College,80,260,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001717.png,PF,30,1
+Tyrone Wallace,LAC,6/10/1994,Bakersfield,California,77,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001718.png,SG,9,1
+Abdel Nader,OKC,9/25/1993,Alexandria,Iowa State,78,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001721.png,SF,11,1
+Furkan Korkmaz,PHI,7/24/1997,Bakirkoy,No College,79,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001722.png,SG,30,1
+Daniel Hamilton,ATL,8/8/1995,Los Angeles,Connecticut,79,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001725.png,SG,5,1
+Gary Payton II,WAS,12/1/1992,No record,Oregon State,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001730.png,PG,4,2
+Yogi Ferrell,SAC,5/9/1993,Greenfield,Indiana,72,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001732.png,PG,3,2
+Fred VanVleet,TOR,2/25/1994,Rockford,Wichita State,72,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001733.png,PG,23,2
+Bogdan Bogdanovic,SAC,8/18/1992,No record,No College,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001745.png,SG,8,1
+Ryan Arcidiacono,CHI,3/26/1994,Philadelphia,Villanova,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001746.png,PG,51,1
+Danuel House Jr.,HOU,6/7/1993,Sugar Land,No College,79,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001747.png,PF,4,2
+Tomas Satoransky,WAS,10/30/1991,Prague,No College,79,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001749.png,PG,31,2
+Dorian Finney-Smith,DAL,5/4/1993,Portsmouth,Florida,80,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001757.png,SF,10,2
+Bryn Forbes,SAS,7/23/1993,Lansing,Michigan State,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001760.png,SG,11,2
+Wayne Selden Jr.,CHI,9/30/1994,Boston,Kansas,77,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001762.png,SG,14,2
+Alex Abrines,OKC,8/1/1993,Mallorca,No College,78,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001763.png,SG,8,2
+Troy Williams,SAC,12/30/1994,Hampton,Indiana,79,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001768.png,SF,19,2
+Chasson Randle,WAS,2/5/1993,No record,Stanford,74,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001775.png,PG,9,1
+Alex Poythress,ATL,9/6/1993,No record,Kentucky,81,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001779.png,SF,22,2
+Damion Lee,GSW,10/21/1992,Baltimore,Louisville,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001791.png,SG,1,1
+Shaquille Harrison,CHI,10/6/1993,No record,Tulsa,76,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001795.png,PG,3,1
+Derrick Jones Jr.,MIA,2/15/1997,No record,UNLV,79,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001796.png,SF,5,2
+C.J. Williams,MIN,2/6/1990,No record,North Carolina State,77,226,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001799.png,SG,12,1
+Alex Caruso,LAL,2/28/1994,No record,Texas A&amp;M,77,186,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001801.png,SG,4,1
+David Nwaba,CLE,1/14/1993,No record,Cal Poly,76,219,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001820.png,SG,12,2
+Hamidou Diallo,OKC,7/31/1998,No record,Kentucky,77,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001822.png,SG,6,0
+Lonzo Ball,LAL,10/27/1997,No record,UCLA,78,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001823.png,PG,2,1
+De'Aaron Fox,SAC,12/20/1997,No record,Kentucky,75,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001824.png,PG,5,1
+Markelle Fultz,PHI,5/29/1998,No record,Washington,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001825.png,PG,20,1
+Dennis Smith Jr.,DAL,11/25/1997,No record,North Carolina State,75,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001826.png,PG,1,1
+Harry Giles,SAC,4/22/1998,No record,Duke,82,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001827.png,PF,20,0
+Josh Jackson,PHO,2/10/1997,No record,Kansas,80,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001828.png,SF,20,1
+Jayson Tatum,BOS,3/3/1998,No record,Duke,80,208,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001829.png,SF,0,1
+Jonathan Isaac,ORL,10/3/1997,No record,Florida State,82,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001830.png,PF,1,1
+Lauri Markkanen,CHI,5/22/1997,No record,Arizona,84,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001831.png,PF,24,1
+Frank Ntilikina,NYK,7/28/1998,No record,No College,78,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001832.png,PG,11,1
+Malik Monk,CHA,2/4/1998,No record,Kentucky,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001833.png,SG,1,1
+Zach Collins,POR,11/19/1997,No record,Gonzaga,84,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001834.png,C,33,1
+John Collins,ATL,9/23/1997,No record,Wake Forest,82,235,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001835.png,PF,20,1
+Bam Adebayo,MIA,7/18/1997,No record,Kentucky,82,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001836.png,C,13,1
+Jarrett Allen,BKN,4/21/1998,No record,Texas,83,237,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001837.png,C,31,1
+OG Anunoby,TOR,7/17/1997,No record,Indiana,80,232,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001838.png,SF,3,1
+TJ Leaf,IND,4/30/1997,No record,UCLA,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001839.png,PF,22,1
+Luke Kennard,DET,6/24/1996,No record,Duke,77,206,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001840.png,SG,5,1
+D.J. Wilson,MIL,2/19/1996,No record,Michigan,82,231,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001841.png,PF,5,1
+Justin Patton,PHI,6/14/1997,No record,Creighton,84,241,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001842.png,C,0,1
+Terrance Ferguson,OKC,5/17/1998,No record,No College,79,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001843.png,SG,23,1
+Donovan Mitchell,UTA,9/7/1996,No record,Louisville,75,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001844.png,SG,45,1
+Justin Jackson,SAC,3/28/1995,No record,North Carolina,80,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001845.png,SF,25,1
+Jordan Bell,GSW,1/7/1995,No record,Oregon,81,224,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001846.png,PF,2,1
+Frank Jackson,NOP,5/4/1998,No record,Duke,75,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001847.png,PG,15,0
+Wes Iwundu,ORL,12/20/1994,No record,Kansas State,79,195,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001848.png,SF,25,1
+Jonah Bolden,PHI,1/2/1996,No record,UCLA,82,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001849.png,PF,43,0
+Jawun Evans,PHO,7/26/1996,No record,Oklahoma State,72,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001850.png,PG,0,1
+Thomas Bryant,WAS,7/31/1997,No record,Indiana,83,248,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001852.png,C,13,1
+Josh Hart,LAL,3/6/1995,No record,Villanova,77,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001853.png,SG,3,1
+Caleb Swanigan,POR,4/18/1997,No record,Purdue,81,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001854.png,PF,50,1
+Tyler Lydon,DEN,4/9/1996,No record,Syracuse,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001855.png,PF,20,1
+Derrick White,SAS,7/2/1994,No record,Colorado,76,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001856.png,PG,4,1
+Tony Bradley,UTA,1/8/1998,No record,North Carolina,82,248,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001857.png,C,13,1
+Kyle Kuzma,LAL,7/24/1995,No record,Utah,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001858.png,PF,0,1
+Davon Reed,IND,6/11/1995,No record,Miami (FL),77,208,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001859.png,SG,32,1
+Frank Mason III,SAC,4/3/1994,No record,Kansas,71,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001860.png,PG,10,1
+Dwayne Bacon,CHA,8/30/1995,No record,Florida State,79,221,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001861.png,SF,7,1
+Tyler Dorsey,ATL,2/18/1996,No record,Oregon,77,183,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001862.png,SG,2,1
+Damyean Dotson,NYK,5/6/1994,No record,Houston,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001863.png,SG,21,1
+Sterling Brown,MIL,2/10/1995,No record,SMU,78,232,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001864.png,SG,23,1
+Kadeem Allen,NYK,1/15/1993,No record,Arizona,75,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001866.png,SG,0,1
+Semi Ojeleye,BOS,12/5/1994,No record,SMU,79,241,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001867.png,PF,37,1
+Ike Anigbogu,IND,10/22/1998,No record,UCLA,82,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001868.png,C,13,1
+Sindarius Thornwell,LAC,11/15/1994,No record,South Carolina,77,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001869.png,SG,0,1
+Monte Morris,DEN,6/27/1995,No record,Iowa State,75,175,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001871.png,PG,11,1
+Ivan Rabb,MEM,2/4/1997,No record,California,82,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001872.png,PF,10,1
+Dillon Brooks,MEM,1/22/1996,No record,Oregon,78,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001873.png,SF,24,1
+Isaiah Hartenstein,HOU,5/5/1998,No record,No College,84,249,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001874.png,PF,55,0
+Edmond Sumner,IND,12/31/1995,No record,Xavier,78,176,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001875.png,PG,5,1
+Jabari Bird,BOS,7/3/1994,No record,California,78,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001879.png,SG,26,1
+Jaron Blossomgame,CLE,9/16/1993,No record,Clemson,80,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001881.png,SF,4,0
+PJ Dozier,BOS,10/25/1996,No record,South Carolina,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001885.png,PG,35,1
+Chris Boucher,TOR,1/11/1993,No record,Oregon,82,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001886.png,PF,25,1
+Luke Kornet,NYK,7/15/1995,No record,Vanderbilt,85,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001889.png,PF,2,1
+Kobi Simmons,CLE,7/4/1997,No record,Arizona,76,170,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001890.png,PG,24,1
+Johnathan Motley,LAC,5/4/1995,No record,Baylor,82,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001898.png,PF,15,1
+Daniel Theis,BOS,4/4/1992,No record,No College,80,243,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001901.png,PF,27,1
+Milos Teodosic,LAC,3/19/1987,No record,No College,77,196,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001902.png,PG,4,1
+Alfonzo McKinnie,GSW,9/17/1992,No record,Green Bay,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001907.png,SF,28,1
+Maxi Kleber,DAL,1/29/1992,No record,No College,83,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001909.png,PF,42,1
+Devin Robinson,WAS,3/7/1995,No record,Florida,80,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001910.png,SF,7,1
+Antonio Blakeney,CHI,10/4/1996,No record,LSU,76,192,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001911.png,SG,9,1
+Torrey Craig,DEN,12/19/1990,No record,USC Upstate,79,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001912.png,SG,3,1
+Royce O'Neale,UTA,6/5/1993,No record,Baylor,78,226,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001913.png,SF,23,1
+Tyler Cavanaugh,UTA,2/9/1994,No record,George Washington,81,238,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001923.png,PF,34,1
+Isaiah Hicks,NYK,7/24/1994,No record,North Carolina,81,230,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001926.png,PF,4,1
+Ben Moore,SAS,5/13/1995,No record,SMU,80,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001930.png,PF,26,1
+Troy Caupain,ORL,11/29/1995,No record,Cincinnati,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001934.png,PG,3,0
+Amile Jefferson,ORL,5/7/1993,No record,Duke,81,222,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001941.png,PF,11,0
+Isaiah Briscoe,ORL,4/13/1996,No record,Kentucky,75,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001945.png,PG,13,0
+Nazareth Mitrou-Long,UTA,8/3/1993,No record,Iowa State,76,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001946.png,SG,30,1
+Jaylen Morris,MIL,9/19/1995,No record,No College,77,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001978.png,PG,30,1
+Luka Doncic,DAL,2/28/1999,No record,No College,79,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001984.png,PG,77,0
+Mohamed Bamba,ORL,5/12/1998,No record,Texas,84,221,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001985.png,C,5,0
+Grayson Allen,UTA,10/8/1995,No record,Duke,77,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001986.png,SG,24,0
+Donte DiVincenzo,MIL,1/31/1997,No record,Villanova,76,203,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001987.png,SG,9,0
+Michael Porter Jr.,DEN,6/29/1998,No record,Missouri,82,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001988.png,PF,1,0
+Trae Young,ATL,9/19/1998,No record,Oklahoma,74,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001989.png,PG,11,0
+Deandre Ayton,PHO,7/23/1998,No record,Arizona,85,250,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001990.png,C,22,0
+Jaren Jackson Jr.,MEM,9/15/1999,No record,Michigan State,83,242,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001991.png,PF,13,0
+Kevin Huerter,ATL,8/27/1998,No record,Maryland,79,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001993.png,SG,3,0
+Kevin Knox,NYK,8/11/1999,No record,Kentucky,81,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001994.png,SF,20,0
+Marvin Bagley III,SAC,3/14/1999,No record,Duke,83,234,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001995.png,PF,35,0
+Wendell Carter Jr.,CHI,4/16/1999,No record,Duke,82,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001996.png,PF,34,0
+Collin Sexton,CLE,1/4/1999,No record,Alabama,74,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001997.png,PG,2,0
+Mikal Bridges,PHO,8/30/1996,No record,Villanova,79,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001998.png,SF,25,0
+Shai Gilgeous-Alexander,LAC,7/12/1998,No record,Kentucky,78,181,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001999.png,PG,2,0
+Jerome Robinson,LAC,2/22/1997,No record,Boston College,77,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002000.png,SG,10,0
+Zhaire Smith,PHI,6/9/1999,No record,Texas Tech,76,199,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002001.png,SG,8,0
+Troy Brown,WAS,7/28/1999,No record,Oregon,79,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002002.png,SF,6,0
+Miles Bridges,CHA,3/21/1998,No record,Michigan State,79,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002003.png,SF,0,0
+Chandler Hutchison,CHI,4/26/1996,No record,Boise State,79,197,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002004.png,SF,15,0
+Aaron Holiday,IND,9/30/1996,No record,UCLA,73,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002005.png,PG,3,0
+Josh Okogie,MIN,9/1/1998,No record,Georgia Tech,76,212,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002006.png,SG,20,0
+Anfernee Simons,POR,6/8/1999,No record,No College,76,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002007.png,SG,24,0
+Lonnie Walker IV,SAS,12/14/1998,No record,Miami (FL),77,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002008.png,SG,1,0
+Devonte' Graham,CHA,2/22/1995,No record,Kansas,74,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002010.png,PG,4,0
+Omari Spellman,ATL,7/21/1997,No record,Villanova,81,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002012.png,PF,6,0
+Melvin Frazier,ORL,8/30/1996,No record,Tulane,78,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002013.png,SF,35,0
+Jarred Vanderbilt,DEN,4/3/1999,No record,Kentucky,81,214,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002015.png,PF,8,0
+Mitchell Robinson,NYK,4/1/1998,No record,Western Kentucky,85,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002016.png,C,26,0
+Kostas Antetokounmpo,DAL,11/20/1997,No record,Dayton,82,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002017.png,PF,37,0
+Isaac Bonga,LAL,11/8/1999,No record,No College,80,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002018.png,PG,17,0
+Landry Shamet,PHI,3/13/1997,No record,Wichita State,77,188,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002019.png,PG,1,0
+Ray Spalding,DAL,3/11/1997,No record,Louisville,82,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002020.png,PF,26,0
+Khyri Thomas,DET,5/8/1996,No record,Creighton,75,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002021.png,SG,13,0
+Rodions Kurucs,BKN,2/5/1998,No record,No College,81,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002022.png,SF,0,0
+Dzanan Musa,BKN,5/8/1999,No record,No College,81,208,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002023.png,SG,30,0
+Robert Williams,BOS,10/17/1997,No record,Texas A&amp;M,82,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002024.png,PF,44,0
+Vincent Edwards,HOU,4/5/1996,No record,Purdue,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002025.png,SF,12,0
+Gary Trent Jr.,POR,1/18/1999,No record,Duke,78,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002027.png,SG,9,0
+Jevon Carter,MEM,9/14/1995,No record,West Virginia,74,196,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002028.png,PG,3,0
+De'Anthony Melton,PHO,5/28/1998,No record,USC,76,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002029.png,PG,14,0
+Chimezie Metu,SAS,3/22/1997,No record,USC,82,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002031.png,PF,7,0
+Jalen Brunson,DAL,8/31/1996,No record,Villanova,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002032.png,PG,13,0
+Shake Milton,PHI,9/26/1996,No record,SMU,78,207,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002033.png,SG,18,0
+Jacob Evans III,GSW,6/18/1997,No record,Cincinnati,78,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002034.png,SG,10,0
+Svi Mykhailiuk,LAL,6/10/1997,No record,Kansas,80,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002035.png,SF,10,0
+Moritz Wagner,LAL,4/26/1997,No record,Michigan,83,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002036.png,PF,15,0
+George King,PHO,1/15/1994,No record,Colorado,78,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002037.png,SF,8,0
+Elie Okobo,PHO,10/23/1997,No record,No College,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002038.png,PG,2,0
+Alize Johnson,IND,4/22/1996,No record,Missouri State,81,212,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002039.png,PF,24,0
+Bruce Brown Jr.,DET,8/15/1996,No record,Miami (FL),77,202,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002040.png,SG,6,0
+Keita Bates-Diop,MIN,1/23/1996,No record,Ohio State,81,229,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002041.png,SF,31,0
+Thomas Welsh,DEN,2/3/1996,No record,UCLA,84,255,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002043.png,C,45,0
+Allonzo Trier,NYK,1/17/1996,No record,Arizona,77,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002044.png,PG,14,0
+Drew Eubanks,SAS,2/1/1997,No record,Oregon State,82,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002045.png,C,14,0
+Angel Delgado,LAC,11/20/1994,No record,Seton Hall,82,245,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002047.png,C,31,0
+Deng Adel,CLE,2/1/1997,No record,Louisville,79,200,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,32,0
+Marcus Derrickson,GSW,2/1/1996,No record,Georgetown,79,249,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002051.png,PF,32,0
+Trevon Duval,MIL,8/3/1998,No record,Duke,74,189,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PG,0,0
+Brandon Sampson,CHI,5/1/1997,No record,LSU,77,184,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PG,44,0
+Kenrich Williams,NOP,12/2/1994,No record,TCU,79,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,34,0
+Duncan Robinson,MIA,4/22/1994,No record,Michigan,80,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002057.png,PG,55,0
+Yuta Watanabe,MEM,10/13/1994,No record,George Washington,81,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002058.png,PG,12,0
+Jaylen Adams,ATL,5/4/1996,No record,St. Bonaventure,74,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002068.png,PG,10,0
+Johnathan Williams,LAL,5/22/1995,No record,Gonzaga,81,228,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,19,0
+Jared Terrell,MIN,2/10/1995,No record,Rhode Island,75,227,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002078.png,PG,3,0
+Wenyen Gabriel,SAC,3/26/1997,No record,Kentucky,81,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002080.png,PF,32,0
+Daryl Macon,DAL,11/29/1995,No record,Arkansas,75,185,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002086.png,PG,3,0
+Yante Maten,MIA,8/14/1996,No record,Georgia,80,240,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002087.png,PF,0,0
+J.P. Macura,CHA,6/5/1995,No record,Xavier,77,205,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002089.png,PG,55,0
+Bonzie Colson,MIL,1/12/1996,No record,Notre Dame,78,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,50,0
+Rawle Alkins,CHI,10/29/1997,No record,Arizona,77,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002105.png,PG,20,0
+Gary Clark,HOU,11/16/1994,No record,Cincinnati,80,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002109.png,PF,6,0
+Theo Pinson,BKN,11/5/1995,No record,North Carolina,78,218,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002118.png,PG,10,0
+Donte Grantham,OKC,3/19/1995,No record,Clemson,80,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,15,0
+Trevon Bluiett,NOP,11/4/1994,No record,Xavier,78,198,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002124.png,PF,5,0
+Mitch Creek,BKN,4/27/1992,No record,No College,78,225,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PG,55,0
+Brandon Goodwin,DEN,10/2/1995,No record,Florida Gulf Coast,74,180,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PG,6,0
+Jordan Loyd,TOR,7/27/1993,No record,Indianapolis,76,210,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002174.png,PG,8,0
+Emanuel Terry,PHO,8/21/1996,No record,Lincoln Memorial,81,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,10,0
+Haywood Highsmith,PHI,12/9/1996,No record,Wheeling Jesuit,79,220,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,7,0
+Joe Chealey,CHA,11/1/1995,No record,Charleston,75,190,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002231.png,PG,31,0
+Ryan Broekhoff,DAL,8/23/1990,No record,Valparaiso,79,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002244.png,PG,45,0
+Stephan Hicks,IND,4/2/1992,No record,Cal State Northridge,78,215,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/0.png,PF,17,0
