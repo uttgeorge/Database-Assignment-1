@@ -24,11 +24,11 @@ Audit completeness (Check if the given data makes sense for your assignment i.e 
 conceptual schema explanation
 Object model diagram or explain the same using text
 
-#conclusion and inference
+# conclusion and inference
 
-#citations and reference
+# citations and reference
 
-#text license ( Creative Commons) and percentage contribution in assignment
+# text license ( Creative Commons) and percentage contribution in assignment
 
 
 
