@@ -15,6 +15,18 @@ Both code and csv files are stored in **Web Scraper/**
 **3.Api**
 
 # Audit and Clean Data
+### 1.Audit 2017-2018 Regular Season Players' Statistics
+The specific procedures are showed in [Audit 2017-2018 Regular Season Players' Stats Data.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/Audit%202017-2018%20Regular%20Season%20Players'%20Stats%20Data.ipynb).\
+This is scraped from the RealGM.com, and in a very good condition.  \
+There are no null value, and data types of each column are correct. We round  ‘FG%’, ‘3P%’ and ‘FT%’ to 3 decimals, because some of these values have 9 decimals.\
+The number of players in this dataset match the statistics form NBA.com & ESPN.com.\
+When analyzing the distribution of percentage of field goal per game, it shows kind of normal distribution which consist with the common sense.\
+There are 77 players in the salary table, but not in this one. That is because of injuries, and this result also match the real life data.\
+The final file saved as [2017-2018 Regular Season Players'Stats Revised.csv](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/New%20Data/2017-2018%20Regular%20Season%20Players'Stats%20Revised.csv) in Audit - Clean/New Data.\
+
+
+
+
 Audit validity/ accuracy ( You must  reformat the data to fit your database schema i.e. Use python to check whether there are any null or duplicates and delete the row with those values, describe about the same in the report.)
 Audit completeness (Check if the given data makes sense for your assignment i.e check with real world, describe about the same in the report )
 - Audit consistency/uniformity (Compare your dataset with another dataset from a similar domain and note whether the values in your dataset covers the entire possible range when compared to the other dataset or is your dataset limited to a certain columns/range of values, for example : Data of score contains no invalid value, in another word, there is no negative scores, describe about the same in the report.)
