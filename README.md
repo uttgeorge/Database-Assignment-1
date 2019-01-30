@@ -47,8 +47,7 @@ What we build is
  from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando).
 ### [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season)
 scraped from https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season.
-### Web Scraping with Python, 2nd Edition
-by Ryan Mitchell Published by O'Reilly Media, Inc., 2018
+### Ryan Mitchell.April 2018.Web Scraping with Python, 2nd Edition.ISBN: 9781491985571
 
 # text license ( Creative Commons) and percentage contribution in assignment
 
