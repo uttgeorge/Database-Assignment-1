@@ -29,7 +29,7 @@ The specific procedures are showed in [Audit Salary.ipynb](https://github.com/ut
 This dataset is made from two different csv files, one is  2017-2018 NBA Regular Season Players' Salary, and another one is 2017-2018 NBA Regular Season All Star Players List. Because all star players list does not contain many useful information, so we choose to merge it with salary table. What we do is to create a new column in NBA Regular Season Players' Salary table called ‘AllStar’ to show whether each player in salary table is last regular season all star player. Also we change the head to match with statistics file.\
 This dataset has no null, and all data types are correct.\
 We plot the distribution of salaries. This chart shows a great income gap between NBA players, which meat the reality in real world. We also check the salaries of all star players, and they are correct comparing with NBA.com & ESPN.com & Wikipedia. \
-The final file saved as  [NBA_salary.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/NBA_salary.csv)
+The final file saved as  [NBA_salary.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/NBA_salary.csv) in Audit - Clean/New Data.
 
 
 Audit validity/ accuracy ( You must  reformat the data to fit your database schema i.e. Use python to check whether there are any null or duplicates and delete the row with those values, describe about the same in the report.)
