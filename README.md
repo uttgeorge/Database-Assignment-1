@@ -49,7 +49,8 @@ What we build is
 scraped from https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season.
 ### Ryan Mitchell.April 2018.Web Scraping with Python, 2nd Edition.ISBN: 9781491985571
 
-# text license ( Creative Commons) and percentage contribution in assignment
+# text license and percentage contribution in assignment
+### [LICENSE](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/LICENSE)
 
 
 
