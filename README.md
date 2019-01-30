@@ -37,8 +37,8 @@ Audit completeness (Check if the given data makes sense for your assignment i.e 
 - Audit consistency/uniformity (Compare your dataset with another dataset from a similar domain and note whether the values in your dataset covers the entire possible range when compared to the other dataset or is your dataset limited to a certain columns/range of values, for example : Data of score contains no invalid value, in another word, there is no negative scores, describe about the same in the report.)
 
 # Build Conceptual Model
-conceptual schema explanation
-Object model diagram or explain the same using text
+The conceptual schema are stored in [ConceptualModel_NBA.pdf](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/ConceptualModel_NBA.pdf)\
+What we build is 
 
 # conclusion and inference
 
