@@ -11,7 +11,7 @@ It is stored in **Data Downloaded/NBA_season1718_salary.csv**
 **2.Web Scraper**\
 The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. This dataset include 
 
-It is stored in **NBA_season1718_salary.csv/2017-2018 NBA Stats.csv**
+It is stored in **Web Scraper/2017-2018 NBA Stats.csv**
 
 3.Api
 
