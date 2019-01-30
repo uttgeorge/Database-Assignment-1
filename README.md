@@ -5,13 +5,12 @@ The purpose of this project is to obtain NBA data from internet, clean and audit
 # Introduction
 Data are from three different sources:\
 **1.Data Downloaded**\
-The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary). It is downloaded directly from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando). This dataset include players' names, team abbreviation and salaries.\
+The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary). It is downloaded directly from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando). This dataset include players' names, team abbreviations and salaries.\
 It is stored in **Data Downloaded/NBA_season1718_salary.csv**
 
 **2.Web Scraper**\
-The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. This dataset include 
-
-It is stored in **Web Scraper/2017-2018 NBA Stats.csv**
+The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include players' names, Teams Abbreviations and 19 attributions of players.
+Both code and csv file are stored in **Web Scraper/2017-2018 NBA Stats.csv**
 
 3.Api
 
