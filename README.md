@@ -9,7 +9,7 @@ The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki
 It is stored in **Data Downloaded/**
 
 **2.Web Scraper**\
-The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include players' names, Teams Abbreviations and 19 attributions of players.\
+The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include index, players' names, Teams Abbreviations and 19 attributions of players.\
 Both code and csv file are stored in **Web Scraper/**
 
 3.Api
