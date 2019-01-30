@@ -1,4 +1,4 @@
-# Database-Assignment-1
+# Database Assignment 1
 # Abstract
 The purpose of this project is to obtain NBA data from internet, clean and audit them, and build a conceptual database based on these information. This database will allow us to search the biography of NBA players from 2017-2018 regular season, whilst reaching their personal performances, salaries, and team performances.  
 
