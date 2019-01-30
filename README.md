@@ -12,7 +12,7 @@ It is stored in **Data Downloaded/**
 The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include index, players' names, Teams Abbreviations and 19 attributions of players.\
 Both code and csv file are stored in **Web Scraper/**
 
-3.Api
+**3.Api**
 
 # Audit and Clean Data
 Audit validity/ accuracy ( You must  reformat the data to fit your database schema i.e. Use python to check whether there are any null or duplicates and delete the row with those values, describe about the same in the report.)
