@@ -3,7 +3,7 @@
 The purpose of this project is to obtain NBA data from internet, clean and audit them, and build a conceptual database based on these information. This database will allow us to search the biography of NBA players from 2017-2018 regular season, whilst reaching their personal performances, salaries, and team performances.  
 
 # Introduction
-Data are from three different sources:\
+### Data are from three different sources:\
 **1.Data Downloaded**\
 The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary). It is downloaded directly from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando). This dataset include players' names, team abbreviations and salaries.\
 It is stored in **Data Downloaded/**
