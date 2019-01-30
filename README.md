@@ -40,17 +40,17 @@ Audit completeness (Check if the given data makes sense for your assignment i.e 
 The conceptual schema are stored in [ConceptualModel_NBA.pdf](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/ConceptualModel_NBA.pdf)\
 What we build is 
 
-# conclusion and inference
+# Conclusion and Inference
 
-# citations and reference
+# Reference
 ### 1.[NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary)
  from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando).
 ### 2.[2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season)
 scraped from https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season.
 ### 3.Ryan Mitchell.April 2018.Web Scraping with Python, 2nd Edition.ISBN: 9781491985571
 
-# text license and percentage contribution in assignment
+# License
 ### [LICENSE](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/LICENSE)
 
-
+# Percentage Contribution In Assignment
 
