@@ -5,7 +5,7 @@ The purpose of this project is to obtain NBA data from internet, clean and audit
 # Introduction
 Data are from three different sources:\
 **1.Data Downloaded**\
-The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary). It is downloaded directly from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando). This dataset conclude players' names, team abbreviation and salaries.\ 
+The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki25ando/nba-season1718-salary). It is downloaded directly from Kaggle.com published by [Koki Ando](https://www.kaggle.com/koki25ando). This dataset conclude players' names, team abbreviation and salaries.
 
 **2.Web Scraper**\
 3.Api
