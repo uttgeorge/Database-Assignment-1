@@ -66,7 +66,7 @@ We don’t need all attributes because we only focus on the attributes that give
 The final file was saved as [NewPlayerDetails.csv](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/New%20Data/NewPlayerDetails.csv) in **Audit-Clean/New Data**
 
 # Conceptual Model
-The conceptual schema are stored in [ConceptualModel_NBA.pdf](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/ConceptualModel_NBA.pdf)\
+The conceptual schema are stored in [ConceptualModel_NBA.pdf](https://github.com/uttgeorge/Database-Assignment-1/blob/master/ConceptualModel_NBA.pdf)\
 This model includes four tables: players_info, nba_salary,2017-2018 regular season players stats, team stats.\
 And there are 2 one to one relationships, and 1 one to many relationships.\
 **players_info:** 'Player' is primary key, this table shows the biography of each players.\
