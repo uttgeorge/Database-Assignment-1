@@ -9,7 +9,7 @@ The raw data is [NBA Players' Salary of Season17-18](https://www.kaggle.com/koki
 It is stored in **Data Downloaded/**
 
 **2.Web Scraper**\
-The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include index, players' names, Teams Abbreviations and 19 attributions of players.\
+The raw data is [2017-2018 NBA Regular Season Stats](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season). It is scraped from RealGM.com. The code is in **[NBA2017-2018scraper.ipynb](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Web%20Scraper/NBA2017-2018scraper.ipynb)** file. There are explicit explanations in this file.  This dataset include index, players' names, Teams Abbreviations and 19 attributions of players.\
 Both code and csv files are stored in **Web Scraper/**
 
 **3.Web API**\
@@ -24,13 +24,13 @@ We used this API to get 3 these 3 datasets. Both code and csv files are stored i
 
 # Data Clean and Audit
 ### 1.Audit 2017-2018 Regular Season Players' Statistics
-The specific procedures are showed in [Audit 2017-2018 Regular Season Players' Stats Data.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/Audit%202017-2018%20Regular%20Season%20Players'%20Stats%20Data.ipynb).\
+The specific procedures are showed in [Audit 2017-2018 Regular Season Players' Stats Data.ipynb](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/Audit%202017-2018%20Regular%20Season%20Players'%20Stats%20Data.ipynb).\
 This is scraped from the RealGM.com, and in a very good condition.  \
 There are no null value, and data types of each column are correct. We round  ‘FG%’, ‘3P%’ and ‘FT%’ to 3 decimals, because some of these values have 9 decimals.\
 The number of players in this dataset match the statistics form NBA.com & ESPN.com.\
 When analyzing the distribution of percentage of field goal per game, it shows kind of normal distribution which consist with the common sense.\
 There are 77 players in the salary table, but not in this one. That is because of injuries, and this result also match the real life data.\
-The final file saved as [2017-2018 Regular Season Players'Stats Revised.csv](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/New%20Data/2017-2018%20Regular%20Season%20Players'Stats%20Revised.csv) in **Audit-Clean/New Data**.
+The final file saved as [2017-2018 Regular Season Players'Stats Revised.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/2017-2018%20Regular%20Season%20Players'Stats%20Revised.csv) in **Audit-Clean/New Data**.
 
 ### 2. Audited NBA Salary
 The specific procedures are showed in [Audit Salary.ipynb](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/Audit%20Salary%20.ipynb)\
@@ -40,7 +40,7 @@ We plot the distribution of salaries. This chart shows a great income gap betwee
 The final file saved as  [NBA_salary.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/NBA_salary.csv) in **Audit-Clean/New Data**.
 
 ### 3. Audited Regular Season Teams' Stats
-The specific procedures are showed in [NewTeamStats.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/NewTeamStats.ipynb)
+The specific procedures are showed in [NewTeamStats.ipynb](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/NewTeamStats.ipynb)
 This was obtained by using FantasyData API and saved json data to a csv file.
 The raw data set was not in good condition because it had many missing values in a few columns.
 We don’t need all attributes because we only focus on the basic stats values of teams that match the stats values of players in another players’ stats dataset. Here described our steps in general:
@@ -50,9 +50,9 @@ We don’t need all attributes because we only focus on the basic stats values o
 4.	Changed the sequence of columns to make the dataset more readable and valid in structure that resembled the dataset in nba.com
 5.	Checked the range of all numerical values to ensure there was no extreme outliers that didn’t make sense, also plotting histogram/boxplots to check the main attributes Points and Field Goal%
 
-The final file was saved as [NewTeamStats.csv](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/New%20Data/NewTeamStats.csv) in **Audit-Clean/New Data**
+The final file was saved as [NewTeamStats.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/NewTeamStats.csv) in **Audit-Clean/New Data**
 ### 4. Audited Players Details
-The specific procedures are showed in [NewPlayerDetails.ipynb](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/NewPlayerDetails.ipynb)
+The specific procedures are showed in [NewPlayerDetails.ipynb](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/NewPlayerDetails.ipynb)
 This was obtained by using FantasyData API and saved json data to a csv file.
 The raw data set was not in good condition because it had many missing values in a few columns.
 We don’t need all attributes because we only focus on the attributes that give the most direct descriptions of an active player. In another words, we don’t want to include attributes such as Draft Kings Name and Global Team ID that are less relevant to a player. Here described our steps in general:
@@ -63,7 +63,7 @@ We don’t need all attributes because we only focus on the attributes that give
 5.	Filled empty values with ‘No record’ in categorical variable such as College and Birth City to increase completeness
 6.	Checked the range of all numerical values to ensure there was no extreme outliers that didn’t make sense (For example NBA doesn’t allow 3-digit jersey number), increasing the validity of data. Also plotted histogram/boxplots to check the main attributes such as Height and Weight
 
-The final file was saved as [NewPlayerDetails.csv](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/Audit%20-%20Clean/New%20Data/NewPlayerDetails.csv) in **Audit-Clean/New Data**
+The final file was saved as [NewPlayerDetails.csv](https://github.com/uttgeorge/Database-Assignment-1/blob/master/Audit%20-%20Clean/New%20Data/NewPlayerDetails.csv) in **Audit-Clean/New Data**
 
 # Conceptual Model
 The conceptual schema are stored in [ConceptualModel_NBA.pdf](https://github.com/uttgeorge/Database-Assignment-1/blob/master/ConceptualModel_NBA.pdf)\
@@ -108,7 +108,7 @@ https://stackoverflow.com/questions/33165734/update-index-after-sorting-data-fra
 
 
 # License
-### [LICENSE](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/LICENSE)
+### [LICENSE](https://github.com/uttgeorge/Database-Assignment-1/blob/master/LICENSE)
 
 # Contribution Composition
 ### Qi Jin
