@@ -52,5 +52,4 @@ scraped from https://basketball.realgm.com/nba/stats/2018/Averages/All/points/Al
 # License
 ### [LICENSE](https://github.com/INFO6210-Spring19-02/assignment-1-group-qi-jin-dongyu-zhang/blob/master/LICENSE)
 
-# Percentage Contribution In Assignment
 
